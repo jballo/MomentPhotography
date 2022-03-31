@@ -1,0 +1,87 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    border-width: 0px;
+    
+}
+
+
+body{
+    /* background-color: aquamarine; */
+   background: rgb(2,0,36);
+background: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(9,121,118,1) 35%, rgba(0,212,255,1) 100%);
+}
+
+h1{
+    color: rgb(38, 104, 104);
+}
+
+span {
+    /* color: pink;
+    background-color: teal; */
+}
+
+div {
+    /* color: orange;
+    background-color: rosybrown; */
+}
+
+.SmithProfile {
+    width: 10rem;
+    height: 15rem;
+}
+
+img{
+    width: 25rem;
+    height: 20rem;
+    padding: 1rem;
+    border-radius: 10%;
+    /* border: solid; */
+    /* border-color:blueviolet; */
+    /* border: ; */
+}
+
+p{
+    padding: 50px;
+    padding-right: 400px;
+}
+
+.bioText {
+    /* font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    font-family: 'Karla', sans-serif;
+}
+
+
+.Biography {
+    display:flex;
+}
+
+.PortfolioCards {
+    display: flex;
+    justify-content: left;
+    /* align-items: center; */
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.PortfolioCard {
+    border-style:solid;
+    /* border-radius: ; */
+    border-color: blanchedalmond;
+    
+}
+
+.PortfolioCardA {
+    border-style:solid;
+    /* border-radius: ; */
+    border-color: blanchedalmond;
+    /* float: left; */
+    
+}
+.PortfolioCardB {
+    border-style:solid;
+    /* border-radius: ; */
+    border-color: blanchedalmond;
+    /* float: left; */
+    
+}
