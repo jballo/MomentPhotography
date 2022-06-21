@@ -33,14 +33,21 @@ img {
     /* border: ; */
 }
 
-p {
+.ContactMe {
+    padding: 4rem;
+}
+
+/* p {
     padding: 50px;
     padding-right: 400px;
     font-size: 16px;
-}
+} */
 
 .bioText {
     /* font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+    padding: 50px;
+    padding-right: 400px;
+    font-size: 16px;
     font-family: 'Karla', sans-serif;
 }
 
